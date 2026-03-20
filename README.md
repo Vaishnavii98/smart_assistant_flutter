@@ -1,16 +1,46 @@
-# smart_assistant_app
+# Smart Assistant Flutter App- Assignment
 
-A new Flutter project.
+## 📱 Overview
 
-## Getting Started
+A Flutter-based Smart Assistant app that demonstrates:
+* Pagination
+* Chat interface
+* Chat history
+* State management using Provider
 
-This project is a starting point for a Flutter application.
+Built as part of a Flutter assignment.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 📄 Suggestions list with infinite scroll pagination
+* 💬 Chat with assistant (simulated API response)
+* 🕘 Chat history screen
+* 🎯 Clean UI and structured architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠 Tech Stack
+
+* Flutter
+* Provider (State Management)
+* HTTP (API handling)
+
+## 📂 Project Structure
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+
+##Key Highlights
+
+* Implemented pagination using infinite scroll
+* Proper state management using Provider
+* Clean and maintainable code structure
+* Responsive UI
+
+## 📌 Note
+
+This app uses dummy APIs and simulated responses to demonstrate functionality as per assignment requirements.
